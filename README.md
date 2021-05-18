@@ -2,8 +2,8 @@
 
 GMod Addon Adder Python v3.9.2
 
-Automatically creates a line in workshop.lua for a GMA and extracts the contents
-to the server's addons folder.
+Automatically creates a line in a server's workshop.lua for a .GMA and extracts the contents
+to the server's addons folder using the game's built-in gmad.exe.
 
 If you have your install directories set up, open config.py and paste the respective directories.
 Otherwise, run main.py and it will ask for them.
