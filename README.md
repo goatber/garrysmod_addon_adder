@@ -6,7 +6,7 @@ Automatically creates a line in workshop.lua for a GMA and extracts the contents
 to the server's addons folder.
 
 If you have your install directories set up, open config.py and paste the respective directories.
-Otherwise, run run.bat and it will ask for them.
+Otherwise, run main.py and it will ask for them.
 
 You will then have to paste the URL for each addon and give it a name.
 The addon will automatically be added to the server's workshop.lua.
