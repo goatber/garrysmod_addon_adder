@@ -1,8 +1,8 @@
 # GMOD BASE INSTALL DIR
-GMOD_INSTALL = "D:\Steam\steamapps\common\GarrysMod"
+GMOD_INSTALL = ""
 
 # GMOD SERVER INSTALL DIR
-GMOD_SERVER_INSTALL = "D:\Downloads\Games\GMod\GModServer"
+GMOD_SERVER_INSTALL = ""
 
 
 def set_directory(dirChoice: [str]):
@@ -52,4 +52,5 @@ def set_directory(dirChoice: [str]):
         newDir = False
 
     return dirs
+
 
